@@ -1,10 +1,10 @@
-import React from 'react'
+
 
 const App = () => {
 
   return (
     <>
-     <h1>Nemoto Dev</h1>
+     <h1>Nemoto Dev  - 2025 portfolio ever done</h1>
     </>
   )
 }
